@@ -1,0 +1,35 @@
+/* # is used here for id that h1,h2 or h3 heading */
+/* ////heading color */
+#first{ color:blue;
+    color: orange;
+     
+}
+#second{ 
+    color: red;
+    colour:pink;
+
+}
+#third{color: purple;
+    colour:purple;
+}
+/* bakground color of headings paragraph */
+#h1{
+    background-color: brown;
+}
+#p1{ 
+    background-color: blueviolet;}
+ #p2{ 
+    background-color: blue;
+ }
+/* for class representation we use dot as #is used for id */
+/* background color of same class paragraph */
+.p{
+    background-color: brown;
+}
+.first-div{
+    background-color:aqua;
+}
+.first-span{
+    color:brown;
+    font-size: 50px;
+}
